@@ -1,0 +1,8 @@
+# HE240 Hotend
+
+This is our newest hotend design featuring NO PEEK.
+It is still lined with PTFE down to the thermal transition zone.
+This allows printing in both PLA and ABS easily.
+We are in development of the HE280 Jet Kit for this hotend that
+will allow printing at 280c by moving the PTFE liner up away from any 
+heat that would affect the stability of the liner.

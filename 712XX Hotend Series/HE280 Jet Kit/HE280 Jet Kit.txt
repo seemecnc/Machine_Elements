@@ -1,0 +1,5 @@
+#HE280 Jet Kit for HE240 Hotends
+
+This jet kit allows the use of higher temp materials in our HE240.
+It moves the thermal break higher in the heat sink to allow
+the use of PTFE liners but in a safe temperature zone.

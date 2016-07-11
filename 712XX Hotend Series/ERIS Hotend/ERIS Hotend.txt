@@ -1,0 +1,6 @@
+#
+The ERIS® Delta 3D Printer hotend
+
+
+
+This hotend is capable of up to 240c printing temps, limited only by it's PTFE liner.
