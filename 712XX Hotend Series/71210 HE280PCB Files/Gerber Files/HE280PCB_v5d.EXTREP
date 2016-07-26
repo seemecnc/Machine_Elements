@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: HE280PCB_v5d.GBR   5/12/2016  12:09:54 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer, Top                          
+.GBL                Bottom Layer, Bottom                    
+.GTO                Top Overlay, Top Silk                   
+.GTP                Top Paste, Top Paste                    
+.GTS                Top Solder, Top Mask                    
+.GBS                Bottom Solder, Bot Mask                 
+.GBP                Bottom Paste, Bot Paste                 
+.GBO                Bottom Overlay, Bot Silk                
+.GM1                Mechanical 1, Top Assy                  
+.GM2                Mechanical 2, Bot Assy                  
+.GM8                Mechanical 8                            
+.GM15               Mechanical 15                           
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------
