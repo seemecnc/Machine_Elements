@@ -1,0 +1,66 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 70620 PTC Splitter Adapter - .040.SLDPRT
+Receiving System Product I.D.: 70620 PTC Splitter Adapter - .040.SLDPRT
+File Name                    : C:\Users\JJ\Documents\GitHub\Machine_Elements\70680 2 into 1 Dual Filament Feed Adapter\IGES\70620 PTC Splitter Adapter - .040.IGS
+Sending System               : SolidWorks 2017
+Preprocessor Version         : SolidWorks 2017
+File Creation Date           : 170201.104453
+Model Creation Date          : 170201.104453
+Units                        : MM
+Model Space Scale            : 1
+Author                       : JJ
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                      7
+  Average number of significant digits:                3.15702
+  Maximum distance to origin:                          1004.35
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                    7
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             36        36
+102  Composite curve                                 36        36
+110  Line                                            48        48
+120  Surface of revolution                           12        12
+124  Transformation matrix                           36        36
+126  Rational B-spline curve                         60        60
+128  Rational B-spline surface                        3         3
+142  Curve on a parametric surface                   18        18
+144  Trimmed parametric surface                      15        15
+314  Color definition                                 1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Monday, August 07, 2017 16:08:18
+Finish time: Monday, August 07, 2017 16:08:19
+Processing time: 0 days, 00 hours, 00 mins, 01 secs
