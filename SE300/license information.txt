@@ -1,3 +1,12 @@
+
+SeeMeCNC further licenses our work under CERN OHL 1.2.  
+
+See our full LICENSE found at: 
+
+https://github.com/seemecnc/Machine_Elements
+
+
+
 The SE300 circuitboard strain gage probe is based on work by 
 
 https://www.duet3d.com/DeltaSmartEffector
@@ -14,11 +23,6 @@ License CERN OHL 1.2
 
 
 
-SeeMeCNC further licenses our work under CERN OHL 1.2.  
-
-See our full LICENSE found at: 
-
-https://github.com/seemecnc/Machine_Elements
 
 
 
